@@ -1,0 +1,16 @@
+{
+    "name": "helen/mvc25",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\"            : "Core/",
+            "Controllers\\"     : "App/Controllers",
+            "Helpers\\"         : "App/Helpers",
+            "Models\\"          : "App/Models",
+            "Validator\\"       : "App/Validator",
+            "View\\"            : "App/View",
+            "Config\\"          : "App/",
+            "Logger\\"          : "logger/"
+        }
+    }
+}
